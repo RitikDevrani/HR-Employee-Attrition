@@ -173,9 +173,9 @@ HR-Employee-Attrition-Analysis
 ├── README.md
 
 ## How to Run the Project
-1. Clone the repository
+1. Clone the repository git clone
 
-    git clone https://github.com/RitikDevrani/HR-Employee-Attrition-Analysis.git
+     https://github.com/RitikDevrani/HR-Employee-Attrition-Analysis.git
 
 2. Open MySQL
 
